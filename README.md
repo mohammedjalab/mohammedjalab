@@ -60,4 +60,4 @@ My work included student and instructor experiences, real-time booking, chat, wa
 
 ## 📬 Contact
 
-🌐 [Portfolio](https://mohammeddeebjalab.com) · 💼 [LinkedIn](https://www.linkedin.com/in/mouhammed-deeb-jalab/) · ✉️ [Email](mailto:jalabmouhamed@gmail.com)
+🌐 [Portfolio](https://mohammedjalab.com) · 💼 [LinkedIn](https://www.linkedin.com/in/mohammedjalab/) · ✉️ [Email](mailto:jalabmouhamed@gmail.com)
